@@ -1,4 +1,6 @@
 # CES-29-P2-Q2
+Aluno: Lucas França de Oliveira
+
 Possíveis ameaças detectadas:
 
 -Sobrescrita sobre arquivo já existente, possibilidade de deleção ou reconfiguração;
