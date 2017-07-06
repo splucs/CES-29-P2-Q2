@@ -21,7 +21,7 @@ public class VulnerableClass {
 	public void vulnerableMethod(String FILENAME) {
 		
 		if (!validatePath(FILENAME)){
-			System.out.print("Nome de arquivo não válido.");
+			System.out.print("Nome de arquivo nao valido.");
 			return;
 		}
 		
